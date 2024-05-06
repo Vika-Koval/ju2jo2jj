@@ -1,7 +1,7 @@
 import unittest
 
-from security import read_file
-from security import rescue_people
+from security/security import read_file
+from security/security  import rescue_people
 
 
 def setUpModule():
